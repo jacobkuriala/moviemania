@@ -1,2 +1,2 @@
-# moviemaddness
-Trying to predict movie success rates
+# moviemania
+A Quantiphi case study
